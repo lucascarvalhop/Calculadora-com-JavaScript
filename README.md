@@ -2,6 +2,8 @@
 
 # Sobre o projeto
 
+https://lucascarvalhop.github.io/Calculadora-com-JavaScript/
+
 Uma calculadora simples com um design agradável e moderno
 
 # Layout web
